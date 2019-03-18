@@ -1,7 +1,4 @@
-body{
-    display: flex;
-    flex-direction: column;
-}
+
 header {
     display: flex;
     justify-content: space-around;
@@ -93,8 +90,7 @@ hr {
     height: 300px;
     display: flex;
     flex-flow: column; 
-    padding-left: 10px;
-    padding-right: 10px;
+    
 }
 .div-lorem div button {
     height: 30px;
